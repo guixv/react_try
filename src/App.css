@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  text-shadow: darkgray;
+}
+
+input{
+  height: 40px;
+  width: 300px;
+}
+
+button{
+    height: 40px;
+    width: 70px;
+}
+
+#nameInput{
+  float: left;
+  position: relative;
+  left: 35%;
+    right: 35%;
+    top: 35%;
+}
+
+#list{
+    float: left;
+    position: relative;
+    left: 15%;
+    top: 150px;
+    width: 75%;
+}
+
+.cancelButton{
+    float: left;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.name{
+    float: left;
+    position: relative;
+    left: 60px;
+}
+
+.voteNumber{
+    float:right;
+    position: relative;
+    right: 65%;
+}
+
+.addVote{
+    float: right;
+    position: relative;
+    right: 50%;
+}
+
+.subVote{
+    float: right;
+    position: relative;
+    right: 40%;
+}
+
+#cancelDiv{
+    display: none;
+}
+
+#cancelDivDisplay{
+    text-align: center;
+    width: 250px;
+    height: 80px;
+    float: left;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border: gray 2px;
+    background: darkgray;
+}
+
