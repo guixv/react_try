@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react_try/static/css/main.51d1f949.chunk.css",
-    "main.js": "/react_try/static/js/main.6aa1d7ed.chunk.js",
-    "main.js.map": "/react_try/static/js/main.6aa1d7ed.chunk.js.map",
-    "runtime~main.js": "/react_try/static/js/runtime~main.37f4eac3.js",
-    "runtime~main.js.map": "/react_try/static/js/runtime~main.37f4eac3.js.map",
-    "static/js/2.b3482cd0.chunk.js": "/react_try/static/js/2.b3482cd0.chunk.js",
-    "static/js/2.b3482cd0.chunk.js.map": "/react_try/static/js/2.b3482cd0.chunk.js.map",
-    "index.html": "/react_try/index.html",
-    "precache-manifest.fec140f2fc30b414da5edd6b8e8d6479.js": "/react_try/precache-manifest.fec140f2fc30b414da5edd6b8e8d6479.js",
-    "service-worker.js": "/react_try/service-worker.js",
-    "static/css/main.51d1f949.chunk.css.map": "/react_try/static/css/main.51d1f949.chunk.css.map"
+    "main.css": "/reactTry/static/css/main.51d1f949.chunk.css",
+    "main.js": "/reactTry/static/js/main.07efc9d9.chunk.js",
+    "main.js.map": "/reactTry/static/js/main.07efc9d9.chunk.js.map",
+    "runtime~main.js": "/reactTry/static/js/runtime~main.33a48efa.js",
+    "runtime~main.js.map": "/reactTry/static/js/runtime~main.33a48efa.js.map",
+    "static/js/2.b3482cd0.chunk.js": "/reactTry/static/js/2.b3482cd0.chunk.js",
+    "static/js/2.b3482cd0.chunk.js.map": "/reactTry/static/js/2.b3482cd0.chunk.js.map",
+    "index.html": "/reactTry/index.html",
+    "precache-manifest.8f3a53c5ab4d26b2ff666bd6dd60a951.js": "/reactTry/precache-manifest.8f3a53c5ab4d26b2ff666bd6dd60a951.js",
+    "service-worker.js": "/reactTry/service-worker.js",
+    "static/css/main.51d1f949.chunk.css.map": "/reactTry/static/css/main.51d1f949.chunk.css.map"
   }
 }
